@@ -1,4 +1,5 @@
 # Noisy-Learning
+# Published in: 2022 National Conference on Communications (NCC)
 Link to the paper : https://ieeexplore.ieee.org/document/9806738
 Motivated by the growing interest in machine learning on nanoscale edge devices, this is a study of the effect of hardware noise and quantization errors on the accuracy of inference by linear classifiers.
 Machine learning is predicted to pervade every edge device
